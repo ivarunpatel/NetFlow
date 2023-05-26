@@ -1,6 +1,6 @@
 # NetFlow
 
-## Installation 
+### Installation 
 
 Add Package using Swift Package Manager from Xcode with URL: https://github.com/ivarunpatel/NetFlow
 
