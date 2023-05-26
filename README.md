@@ -4,8 +4,6 @@
 
 Add Package using Swift Package Manager from Xcode with URL: https://github.com/ivarunpatel/NetFlow
 
-## Installation 
-
 ### Setup 
 
 Create struct and confirm to `NetworkConfigurable` which allow you to setup baseURL, headers and query parameters which is used by all requests configured using instance of this struct. 
